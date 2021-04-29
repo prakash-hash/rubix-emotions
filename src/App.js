@@ -3,7 +3,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link,
 } from "react-router-dom";
 
 import Home from './views/Home/Home'
@@ -46,10 +45,10 @@ const App = () => {
 
   return (
     <div>
-      <Router>
-        <Link to="/experiment"></Link>
-        <Link to="result/"></Link>
+      <Router basename={'/rubix-emotions'}>
+        
         <Switch>
+        
           <Route path="/signup">
             <Signup onSignup={(data) => setData(data)} userdata={data}/>
           </Route>
@@ -62,7 +61,7 @@ const App = () => {
           <Route path="/result">
             <Result gridData={gridData} Data={data} resetData={(data) => setData(data)} resetgridData={(data) => setGridData(data)}/>
           </Route>
-          <Route exact path="/">
+          <Route path="/">
             <Home/>
           </Route>
 

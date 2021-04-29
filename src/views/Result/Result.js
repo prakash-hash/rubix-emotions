@@ -106,8 +106,10 @@ const Result = ({ gridData, Data, resetData,resetgridData}) => {
         { id: 9, color: '#FFFFFF' }
       ];  
     const pushData = () => {
-        const dataRef = firebase.database().ref('Participant-info');
-        dataRef.push(Data);
+        //--------uncomment below code when firebase is configured -------//
+        // const dataRef = firebase.database().ref('Participant-info');
+        // dataRef.push(Data);
+        
     }
     return (
         <div className="screen-result">
