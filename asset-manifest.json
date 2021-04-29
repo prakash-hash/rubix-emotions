@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rubix-emotions/static/css/main.386fce41.chunk.css",
-    "main.js": "/rubix-emotions/static/js/main.1c097ff5.chunk.js",
-    "main.js.map": "/rubix-emotions/static/js/main.1c097ff5.chunk.js.map",
+    "main.js": "/rubix-emotions/static/js/main.ea48c4a2.chunk.js",
+    "main.js.map": "/rubix-emotions/static/js/main.ea48c4a2.chunk.js.map",
     "runtime-main.js": "/rubix-emotions/static/js/runtime-main.76c47844.js",
     "runtime-main.js.map": "/rubix-emotions/static/js/runtime-main.76c47844.js.map",
     "static/js/2.22e8f0cb.chunk.js": "/rubix-emotions/static/js/2.22e8f0cb.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.76c47844.js",
     "static/js/2.22e8f0cb.chunk.js",
     "static/css/main.386fce41.chunk.css",
-    "static/js/main.1c097ff5.chunk.js"
+    "static/js/main.ea48c4a2.chunk.js"
   ]
 }
