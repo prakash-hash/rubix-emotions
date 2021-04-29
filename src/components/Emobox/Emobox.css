@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,300,700,500|Roboto:400");
+
+.rect{
+    height: 32px;
+    width: 32px;
+    min-width: 32px;
+    border-radius: 4.6px;
+    box-shadow: 0px 0px 3px rgba(119, 119, 119, 0.502);
+    display: flex;
+    justify-content: center;
+}
+
+.emotion{
+    font-family: 'Montserrat';
+    font-size: 21px;
+    font-weight: 700;
+    margin: 17px;
+    align-self: center;
+}
+
+.container{
+    align-items: center;
+    display: flex;
+    /* justify-content: center; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 60px;
+}

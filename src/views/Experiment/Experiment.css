@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,300,700,500|Roboto:400");
+
+
+.text-0{
+    font-family: 'Fredoka One',Helvetica;
+    font-size: 60px;
+}
+
+.span-0{
+    color: rgba(95, 95, 255, 1);
+}
+
+.span-1{
+    color: rgba(253, 138, 1, 1);
+}
+
+.text-1{
+    font-family: 'Montserrat';
+    color:  rgba(95, 95, 255, 1);
+    font-size: 21px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.card-experiment{
+    display: flex;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 16px;
+    box-shadow: 0px 0px 2px rgba(114, 114, 114, 0.749);
+    border-color: rgba(255, 255, 255, 1);
+    margin-left: auto;
+    margin-right: auto;
+    height: 80%;
+    width: 80%;
+    min-height: 70%;
+    margin-top: 40px;
+}
+
+.text-stimulus{
+    font-family: 'Montserrat';
+    font-size: 36px;
+    font-weight: 700;
+    color: rgba(95, 95, 255, 1);
+    text-align: center;
+    margin-top: 45px;
+}
+
+.text-choose{
+    font-family: 'Montserrat';
+    font-size: 21px;
+    color: rgba(96, 96, 96, 1);
+    font-weight: 300;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 35px;
+}
+
+.next-stimulus{
+    background-color:#FD8A01;
+    height: 50px;
+    width: 400px;
+    font-family: 'Montserrat';
+    font-size: 32px;
+    font-weight: 700;
+    color: white;
+    border-radius: 7px;
+    border:0;
+}
+
+.left-block{
+    width: 100%;
+}
+
+.right-block{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.color-grid{
+    margin-top: 80px;
+    justify-content: center;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.expButtons{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    width: 66%;
+}
+
+.finish-button{
+    font-size: 35px;
+    background-color: rgb(119, 178, 85);
+    align-self: center;
+    margin-left: 9px;
+    border:none;
+    border-radius: 7px;
+}

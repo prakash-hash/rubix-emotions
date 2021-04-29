@@ -1,0 +1,79 @@
+.card-login{
+    display: flex;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 16px;
+    box-shadow: 0px 0px 2px rgba(114, 114, 114, 0.749);
+    border-color: rgba(255, 255, 255, 1);
+    width: 30%;
+    justify-content: center;
+    text-align: center;
+    padding-top: 15px;
+    padding-right: 15px;
+    flex-direction: column;
+    align-self: center;
+}
+.screen-signup{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.icon{
+    width: 50px
+}
+
+.full-name{
+    display:flex;
+}
+.label-input-margin{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin:20px;
+    font-size: 20px;
+    width: 100%;
+}
+
+.email-address{
+    display: flex;
+}
+
+.age-field{
+    display: flex;
+}
+
+.password-field{
+    display: flex;
+    width:100%
+}
+
+label{
+    margin-bottom: 5px;
+    width: 100%;
+}
+input{
+    font-size: 20px;
+    width: 100%;
+}
+
+.signup-form{
+    display: flex;
+    flex-direction: column;
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+}
+
+.submit{
+    background-color: rgb(255, 142, 0);
+    margin:20px;
+    border: none;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 10px;
+    width: 50%;
+}

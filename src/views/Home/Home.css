@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,300,700,500|Roboto:400");
+
+.rubix{
+    color:rgb(247, 87, 43);
+    font-size: 70px;
+    font-family: 'Fredoka One';
+}
+.emotions{
+    color:rgb(2, 182, 117);
+    font-size: 70px;
+    font-family: 'Fredoka One';
+}
+.text-intro{
+    font-size: 21px;
+    font-family: 'Montserrat';
+    color: rgb(57, 107, 184);
+}
+
+.rubix-experiment{
+    font-size: 42px;
+    font-family: 'Fredoka One';
+    color:rgb(95, 95, 255);
+}
+.phase-2{
+    font-size: 25px;
+    font-family: 'Montserrat';
+}
+.button-img{
+    background-color: rgb(247, 87, 43);
+    display: flex;
+    justify-content: center;
+    height: 89px;
+    width: 89px;
+    border-radius: 50%;
+
+}
+.img-button{
+    width:42px;
+    height: 42px;
+    align-self: center;
+}
+
+.start-text{
+    font-size: 24px;
+    color:rgb(247, 87, 43);
+}
+.rubix-emotion{
+    display: flex;
+    justify-content: center;
+}
+.right-left-block{
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+}
+.screen{
+    display: flex;
+    justify-content: center;
+}
+.rubix-emotion-text{
+    margin-bottom: 50px;
+}
+
+.grid-img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.left-block-home{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+}
+
+.right-block-home{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    /* margin:100px ; */
+    word-wrap: break-word;
+    border: 1px solid rgb(160, 152, 152);
+    border-radius: 10px;
+    padding: 50px;
+    margin:62px;
+}
+.start-button{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.start-block{
+    display: flex;
+    justify-content: center;
+}
+
+.card-home{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+.screen-home{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.img-grid{
+
+}
