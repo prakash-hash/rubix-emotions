@@ -1,3 +1,5 @@
+Check the website at https://prakash-hash.github.io/rubix-emotions/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
