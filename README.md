@@ -1,4 +1,3 @@
-Check the website at https://prakash-hash.github.io/rubix-emotions/
 
 # Getting Started with Create React App
 
